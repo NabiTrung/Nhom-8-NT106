@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QuanLyChamCongServer/QuanLyChamCongServer.csproj" Id="458db131-f708-4f6d-80f3-67af11f87ec1" />
+  <Project Path="WinFormsApp1/QuanLyChamCong.csproj" />
+</Solution>
